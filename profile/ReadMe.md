@@ -106,17 +106,17 @@ Potential stack includes:
 
 Example structure for the website repository:
 pass-by-me/
-|
-|-- public/
-|
-|-- src/
-| |-- components/
-| |-- pages/
-| |-- styles/
-| |-- ssets/
-|
-|-- README.md
-|-- package.json
+│
+├── public/
+│
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── styles/
+│ └── assets/
+│
+├── README.md
+└── package.json
 
 ---
 
